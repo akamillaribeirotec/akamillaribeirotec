@@ -59,6 +59,8 @@ Apaixonada por tecnologia, automação de processos e desenvolvimento de soluç�
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </p>
 
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
 <hr>
 
 <p align="center">
