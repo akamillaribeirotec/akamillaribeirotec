@@ -104,5 +104,5 @@ linkedin.com/in/akamillaribeirotec
 <hr>
 
 <p align="center">
-✨ Em constante evolução, aprendendo um commit por vez.
+✨ Em constante evolução.✨
 </p>
