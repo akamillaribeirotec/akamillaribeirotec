@@ -32,7 +32,6 @@ Apaixonada por tecnologia, automação de processos e desenvolvimento de soluç�
 🎓 Graduanda em Engenharia de Software <br>
 💼 Em transição de carreira após mais de 4 anos atuando em Recursos Humanos <br>
 ☕ Estudando Java, Spring Boot, APIs REST e Banco de Dados <br>
-💡 Interesse em desenvolvimento Back-end e automação de processos <br>
 🌱 Construindo projetos para fortalecer conhecimentos práticos <br>
 📍 Belém - Pará, Brasil
 </p>
