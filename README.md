@@ -63,9 +63,8 @@ Apaixonada por tecnologia, automação de processos e desenvolvimento de soluç�
 <hr>
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akamillaribeirotec&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=akamillaribeirotec&show_icons=true&theme=radical"/>
 </p>
 
 <hr>
